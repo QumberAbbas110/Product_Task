@@ -6,7 +6,7 @@
  */
 
 if ( ! isset( $wp_did_header ) ) {
-
+//sahi ho gaya bhai
 	$wp_did_header = true;
 
 	// Load the WordPress library.
